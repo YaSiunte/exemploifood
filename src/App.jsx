@@ -1,4 +1,4 @@
-import React from 'react'
+import Pedido from 
 
 const App = () => {
   return (
